@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 //////Relevantant Values///////////
-double a[3] = {1, -1.91, 0.912025};
-double b[3] = {1, -2, 1};
+double a[3] = {1, -1.1430, 0.4128};
+double b[3] = {0.0675, 0.1349, 0.0675};
 float fc = 10;
 double y[3] = {0, 0, 0};
 int x[3] = {0, 0, 0}; // entrada
